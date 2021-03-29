@@ -42,7 +42,7 @@ Donation links:
 
 
 <a href="https://ko-fi.com/fxvnder">
-<img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /> 
+<img alt="Ko-Fi" src="https://img.shields.io/badge/Ko-Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /> 
 </a>
 <a href="https://paypal.me/fxvnderofficial">
 <img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
@@ -64,4 +64,4 @@ Contact me:
 <a href="https://telegram.me/fxvnder">
 <img alt="Telegram" src="https://img.shields.io/badge/@fxvnder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<img alt="Discord" src="https://img.shields.io/badge/FXVNDER#2156-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+<img alt="Discord" src="https://img.shields.io/badge/FXVNDER%232156-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
