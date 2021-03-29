@@ -6,8 +6,8 @@ Always learning. Playing around with:
 
 <img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/> <img alt="NVIDIA" src="https://img.shields.io/badge/nVIDIA%20-%2376B900.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Arch" src="https://img.shields.io/badge/Garuda Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="OnePlus User" src="https://img.shields.io/badge/OnePlus One & OnePlus 6-%23EB0028.svg?&style=for-the-badge&logo=OnePlus&logoColor=white"/>
 
-
 Support my music:
+
 
 <a href="https://open.spotify.com/artist/7BuRibgse0BfGZIrvzUvXF">
 <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
@@ -19,8 +19,8 @@ Support my music:
 <img alt="Deezer" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />
 </a>
 
-
 Support my project NadaRadical:
+
 
 <a href="https://NadaRadical.com/">
 <img alt="WordPress" src="https://img.shields.io/badge/NadaRadical.com%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/> 
@@ -35,8 +35,8 @@ Support my project NadaRadical:
 <img alt="LiberaPay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" />
 </a>
 
-
 Donate:
+
 
 <a href="https://ko-fi.com/fxvnder">
 <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /> 
@@ -51,8 +51,8 @@ Donate:
 <img alt="Crypto" src="https://img.shields.io/badge/Crypto-000000?style=for-the-badge&logo=bitcoin&logoColor=white" /> 
 </a>
 
-
 Contact me: 
+
 
 <a href="mailto:fxvnder@protonmail.com">
 <img alt="Protonmail" src="https://img.shields.io/badge/fxvnder@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> 
