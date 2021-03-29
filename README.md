@@ -58,4 +58,4 @@ Donation links:
 Contact me: 
 
 
-<a href="mailto:fxvnder@protonmail.com"> <img alt="Protonmail" src="https://img.shields.io/badge/fxvnder@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="https://telegram.me/fxvnder"> <img alt="Telegram" src="https://img.shields.io/badge/@fxvnder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <img alt="Discord" src="https://img.shields.io/badge/FXVNDER%232156-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="mailto:fxvnder@protonmail.com"> <img alt="Protonmail" src="https://img.shields.io/badge/fxvnder@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="https://telegram.me/fxvnder"> <img alt="Telegram" src="https://img.shields.io/badge/@fxvnder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <img alt="Discord" src="https://img.shields.io/badge/FXVNDER%232156-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
