@@ -38,7 +38,7 @@ Support my project NadaRadical:
 </a>
 
 
-Donate:
+Donation links:
 
 
 <a href="https://ko-fi.com/fxvnder">
@@ -64,3 +64,4 @@ Contact me:
 <a href="https://telegram.me/fxvnder">
 <img alt="Telegram" src="https://img.shields.io/badge/@fxvnder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+<img alt="Discord" src="https://img.shields.io/badge/FXVNDER#2156-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
