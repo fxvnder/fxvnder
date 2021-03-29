@@ -6,9 +6,7 @@ Always learning. Playing around with:
 
 <img alt="Intel" src="https://img.shields.io/badge/i7 9700K @ 5.2GHz-0078D6.svg?&style=for-the-badge&logo=Intel&logoColor=white"/> <img alt="NVIDIA" src="https://img.shields.io/badge/GTX 1650 OC @ 280Hz + 144Hz-376B900.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white"/> <img alt="Garuda Arch Linux" src="https://img.shields.io/badge/Garuda Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Modded Debloated Windows 10-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/Android Enthusiast-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="OnePlus User" src="https://img.shields.io/badge/OnePlus One & OnePlus 6-%23EB0028.svg?&style=for-the-badge&logo=OnePlus&logoColor=white"/> <a href="https://steamcommunity.com/id/fxvnder"> <img alt="Steam" src="https://img.shields.io/badge/founder%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/> </a> 
 
-
-Support my music:
-
+<h3>Support my music:</h3>
 
 <a href="https://open.spotify.com/artist/7BuRibgse0BfGZIrvzUvXF">
 <img alt="Spotify" src="https://img.shields.io/badge/FXVNDER-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
@@ -20,9 +18,7 @@ Support my music:
 <img alt="Deezer" src="https://img.shields.io/badge/FXVNDER-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />
 </a>
 
-
-Support my project NadaRadical:
-
+<h3>Support my project NadaRadical:</h3>
 
 <a href="https://NadaRadical.com/">
 <img alt="WordPress" src="https://img.shields.io/badge/NadaRadical.com%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/> 
@@ -37,9 +33,7 @@ Support my project NadaRadical:
 <img alt="LiberaPay" src="https://img.shields.io/badge/Liberapay.com/NadaRadical-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" />
 </a>
 
-
-Donation links:
-
+<h3>Donation links:</h3>
 
 <a href="https://ko-fi.com/fxvnder">
 <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--Fi/fxvnder-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /> 
@@ -55,7 +49,7 @@ Donation links:
 </a>
 
 
-Contact me: 
+<h3>Contact me:</h3>
 
 
-<a href="mailto:fxvnder@protonmail.com"> <img alt="Protonmail" src="https://img.shields.io/badge/fxvnder@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="https://telegram.me/fxvnder"> <img alt="Telegram" src="https://img.shields.io/badge/@fxvnder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <img alt="Discord" src="https://img.shields.io/badge/FXVNDER%232156-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="mailto:fxvnder@protonmail.com"> <img alt="Protonmail" src="https://img.shields.io/badge/fxvnder@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="mailto:fxvnder@nadaradical.com"> <img alt="Mail" src="https://img.shields.io/badge/fxvnder@nadaradical.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> </a> <a href="https://telegram.me/fxvnder"> <img alt="Telegram" src="https://img.shields.io/badge/@fxvnder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <img alt="Discord" src="https://img.shields.io/badge/FXVNDER%232156-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
