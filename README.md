@@ -24,7 +24,7 @@ Support my project NadaRadical:
 <img alt="WordPress" src="https://img.shields.io/badge/NadaRadical.com%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/> 
 </a>
 <a href="https://git.nadaradical.com/">
-<img alt="Gitea" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=gitea&logoColor=white"/>
+<img alt="Gitea" src="https://img.shields.io/badge/Gitea%20-%23F05033.svg?&style=for-the-badge&logo=gitea&logoColor=white"/>
 </a>
 <a href="https://www.patreon.com/nadaradical">
 <img alt="Support NadaRadical" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
