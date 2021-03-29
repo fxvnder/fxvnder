@@ -35,4 +35,6 @@ Donate:
 <a href="https://liberapay.com/fxvnder/">
 <img alt="LiberaPay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" />
 </a>
-<img alt="Crypto" src="https://img.shields.io/badge/Crypto-000000?style=for-the-badge&logo=crypto&logoColor=white" /> 
+<a href="https://pastebin.com/V0aYTHL3">
+<img alt="Crypto" src="https://img.shields.io/badge/Crypto-000000?style=for-the-badge&logo=bitcoin&logoColor=white" /> 
+</a>
