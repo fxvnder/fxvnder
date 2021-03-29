@@ -23,6 +23,9 @@ Support my project NadaRadical:
 <a href="https://NadaRadical.com/">
 <img alt="WordPress" src="https://img.shields.io/badge/NadaRadical.com%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/> 
 </a>
+<a href="https://git.nadaradical.com/">
+<img alt="Gitea" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=gitea&logoColor=white"/>
+</a>
 <a href="https://www.patreon.com/nadaradical">
 <img alt="Support NadaRadical" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
 </a>
@@ -35,7 +38,7 @@ Donate:
 <a href="https://ko-fi.com/fxvnder">
 <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /> 
 </a>
-<a href="paypal.me/fxvnderofficial">
+<a href="https://paypal.me/fxvnderofficial">
 <img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 </a>
 <a href="https://liberapay.com/fxvnder/">
