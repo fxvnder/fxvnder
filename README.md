@@ -14,9 +14,10 @@ Always learning. Playing around with:
 <img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 <br>
 User of:
+<br>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Arch" src="https://img.shields.io/badge/Arch-E95420?style=for-the-badge&logo=linux&logoColor=white" />
+<img alt="Arch" src="https://img.shields.io/badge/Garuda Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <br>
