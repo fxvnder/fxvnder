@@ -4,20 +4,20 @@ Always learning. Playing around with:
 
 ![banner](./banner.png)
 
-<img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/> <img alt="NVIDIA" src="https://img.shields.io/badge/nVIDIA%20-%2376B900.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Arch" src="https://img.shields.io/badge/Garuda Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="OnePlus User" src="https://img.shields.io/badge/OnePlus One & OnePlus 6-%23EB0028.svg?&style=for-the-badge&logo=OnePlus&logoColor=white"/>
+<a href="https://steamcommunity.com/id/fxvnder"> <img alt="Steam" src="https://img.shields.io/badge/founder%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/> </a> <img alt="NVIDIA" src="https://img.shields.io/badge/nVIDIA%20-%2376B900.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="Arch" src="https://img.shields.io/badge/Garuda Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="OnePlus User" src="https://img.shields.io/badge/OnePlus One & OnePlus 6-%23EB0028.svg?&style=for-the-badge&logo=OnePlus&logoColor=white"/>
 
 
 Support my music:
 
 
 <a href="https://open.spotify.com/artist/7BuRibgse0BfGZIrvzUvXF">
-<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+<img alt="Spotify" src="https://img.shields.io/badge/FXVNDER-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 <a href="https://music.apple.com/us/artist/fxvnder/1437109182">
-<img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />
+<img alt="Apple Music" src="https://img.shields.io/badge/FXVNDER-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />
 </a>
 <a href="https://www.deezer.com/en/artist/51768902">
-<img alt="Deezer" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />
+<img alt="Deezer" src="https://img.shields.io/badge/FXVNDER-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />
 </a>
 
 
