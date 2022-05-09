@@ -53,3 +53,11 @@ Always learning. Playing around with:
 
 
 <a href="mailto:fxvnder@protonmail.com"> <img alt="Protonmail" src="https://img.shields.io/badge/fxvnder@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="mailto:fxvnder@nadaradical.com"> <img alt="Mail" src="https://img.shields.io/badge/fxvnder@nadaradical.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> </a> <a href="https://telegram.me/fxvnder"> <img alt="Telegram" src="https://img.shields.io/badge/@fxvnder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <img alt="Discord" src="https://img.shields.io/badge/FXVNDER%232156-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+
+<h3>Those annoying things everyone has on their profiles:</h3>
+
+[![Trophy Galery](https://github-profile-trophy.vercel.app/?username=fxvnder)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxvnder)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fxvnder&show_icons=true)  
