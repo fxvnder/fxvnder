@@ -58,12 +58,12 @@ Always learning. Playing around with:
 
 <h4> Trophy Galery: </h4>
 
-[![Trophy Galery](https://github-profile-trophy.vercel.app/?username=fxvnder)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy Galery](https://github-profile-trophy.vercel.app/?username=fxvnder&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h4> Top Languages Used: </h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxvnder)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxvnder&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4> GitHub Stats: </h4>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fxvnder&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fxvnder&show_icons=true&theme=dracula)  
