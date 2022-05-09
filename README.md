@@ -56,8 +56,14 @@ Always learning. Playing around with:
 
 <h3>Those annoying things everyone has on their profiles:</h3>
 
+<h4> Trophy Galery: </h4>
+
 [![Trophy Galery](https://github-profile-trophy.vercel.app/?username=fxvnder)](https://github.com/ryo-ma/github-profile-trophy)
 
+<h4> Top Languages Used: </h4>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxvnder)](https://github.com/anuraghazra/github-readme-stats)
+
+<h4> GitHub Stats: </h4>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fxvnder&show_icons=true)  
