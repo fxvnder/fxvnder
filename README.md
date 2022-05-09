@@ -66,4 +66,4 @@ Always learning. Playing around with:
 
 <h4> Top Languages Used: </h4>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxvnder&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxvnder&theme=dracula&layout=compact)
