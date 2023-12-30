@@ -4,7 +4,7 @@
 
 ![banner](./banner.png)
 
-<img alt="Intel" src="https://img.shields.io/badge/i7 9700K @ 5.2GHz-0078D6.svg?&style=for-the-badge&logo=Intel&logoColor=white"/> <img alt="NVIDIA" src="https://img.shields.io/badge/GTX 1650 OC @ 280Hz + 144Hz-378800.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white"/> <img alt="Garuda Arch Linux" src="https://img.shields.io/badge/Garuda Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" /> <img alt="Windows 11" src="https://img.shields.io/badge/Modded & Debloated Windows 11-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/Android Enthusiast-339984?style=for-the-badge&logo=android&logoColor=white" /> <img alt="OnePlus User" src="https://img.shields.io/badge/OnePlus One & OnePlus 6-%23EB0028.svg?&style=for-the-badge&logo=OnePlus&logoColor=white"/> 
+<img alt="Intel" src="https://img.shields.io/badge/i7 9700K @ 5.2GHz-0078D6.svg?&style=for-the-badge&logo=Intel&logoColor=white"/> <img alt="NVIDIA" src="https://img.shields.io/badge/GTX 1650 SUPER OC @ 280Hz + 144Hz-378800.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white"/> <img alt="Garuda Linux" src="https://img.shields.io/badge/Garuda Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" /> <img alt="Windows 11" src="https://img.shields.io/badge/Modded & Debloated Windows 11-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/Android Enthusiast-339984?style=for-the-badge&logo=android&logoColor=white" /> <img alt="OnePlus User" src="https://img.shields.io/badge/OnePlus One & OnePlus 6-%23EB0028.svg?&style=for-the-badge&logo=OnePlus&logoColor=white"/> 
 
 <h3>Support my music:</h3>
 
@@ -45,9 +45,6 @@
 <a href="https://paypal.me/fxvnderofficial">
 <img alt="Paypal" src="https://img.shields.io/badge/PayPal.me/fxvnderofficial-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 </a>
-<a href="https://liberapay.com/fxvnder/">
-<img alt="LiberaPay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" />
-</a>
 <a href="https://pastebin.com/V0aYTHL3">
 <img alt="Crypto" src="https://img.shields.io/badge/Crypto Donations-000000?style=for-the-badge&logo=bitcoin&logoColor=white" /> 
 </a>
@@ -56,9 +53,9 @@
 <h3>Contact me:</h3>
 
 
-<a href="mailto:me@fxvnder.com"> <img alt="Mail" src="https://img.shields.io/badge/me@fxvnder.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> </a> <a href="mailto:fxvnder@protonmail.com"> <img alt="Protonmail" src="https://img.shields.io/badge/fxvnder@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="https://telegram.me/fxvnder"> <img alt="Telegram" src="https://img.shields.io/badge/@fxvnder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <img alt="Discord" src="https://img.shields.io/badge/FXVNDER%234663-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="mailto:me@fxvnder.com"> <img alt="Mail" src="https://img.shields.io/badge/me@fxvnder.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> </a> <a href="mailto:fxvnder@protonmail.com"> <img alt="Protonmail" src="https://img.shields.io/badge/fxvnder@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="https://telegram.me/fxvnder"> <img alt="Telegram" src="https://img.shields.io/badge/@fxvnder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 
-<h3>Those annoying things everyone has on their profiles:</h3>
+<h3>You already know.</h3>
 
 <h4> GitHub Stats: </h4>
 
