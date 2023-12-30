@@ -33,12 +33,9 @@ NOTE: Serviços Radicais is currently down for maintenance, including all branch
 
 <h3>Donation links:</h3>
 
-<a href="ko-fi.com/fxvnder">
-<img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-<a href="paypal.me/fxvnderofficial">
-<img alt="Paypal" src="https://img.shields.io/badge/PayPal.me-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
-<a href="https://pastebin.com/V0aYTHL3">
-<img alt="Crypto" src="https://img.shields.io/badge/Crypto Donations-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a>
+<a href="https://ko-fi.com/fxvnder"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+<a href="https://paypal.me/fxvnderofficial"><img alt="Paypal" src="https://img.shields.io/badge/PayPal.me-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+<a href="https://pastebin.com/V0aYTHL3"><img alt="Crypto" src="https://img.shields.io/badge/Crypto Donations-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a>
 
 
 <h3>Contact me!</h3>
