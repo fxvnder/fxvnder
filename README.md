@@ -14,9 +14,7 @@
 <a href="https://music.apple.com/us/artist/fxvnder/1437109182">
 <img alt="Apple Music" src="https://img.shields.io/badge/FXVNDER-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />
 </a>
-<a href="https://www.deezer.com/en/artist/51768902">
-<img alt="Deezer" src="https://img.shields.io/badge/FXVNDER-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />
-</a>
+(and everywhere else under the aliases "FXVNDER"/"FXV")
 
 <h3>Support my project (Serviços Radicais):</h3>
 
@@ -37,6 +35,8 @@
 <img alt="LiberaPay" src="https://img.shields.io/badge/Liberapay.com/NadaRadical-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" />
 </a>
 
+NOTE: Serviços Radicais is currently down for maintenance, including all branch projects.
+
 <h3>Donation links:</h3>
 
 <a href="https://ko-fi.com/fxvnder">
@@ -51,7 +51,6 @@
 
 
 <h3>Contact me:</h3>
-
 
 <a href="mailto:me@fxvnder.com"> <img alt="Mail" src="https://img.shields.io/badge/me@fxvnder.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /> </a> <a href="mailto:fxvnder@protonmail.com"> <img alt="Protonmail" src="https://img.shields.io/badge/fxvnder@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="https://telegram.me/fxvnder"> <img alt="Telegram" src="https://img.shields.io/badge/@fxvnder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 
