@@ -15,6 +15,4 @@
 
 <a href="mailto:me@fxvnder.com"><img alt="Mail" src="https://img.shields.io/badge/me@fxvnder.com-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white"/></a><a href="mailto:fxvnder@protonmail.com"><img alt="Protonmail" src="https://img.shields.io/badge/fxvnder@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a><a href="https://telegram.me/fxvnder"><img alt="Telegram" src="https://img.shields.io/badge/@fxvnder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fxvnder&show_icons=true&theme=dracula)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxvnder&theme=dracula&layout=compact)
